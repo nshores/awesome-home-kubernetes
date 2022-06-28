@@ -45,6 +45,7 @@ A curation of projects and resources involving running Kubernetes at home. ⛵
 | [narze/home-cluster](https://github.com/narze/home-cluster)             | Minimal Arm64-based k3s cluster with GitOps on ArgoCD running on Raspberry Pi 4        |
 | [nicholaswilde/home-cluster](https://github.com/nicholaswilde/home-cluster)             | Flux/GitOps managed k3s cluster running on an arm64 [Turing Pi 1](https://turingpi.com/)        |
 | [npawelek/k8s-gitops](https://github.com/npawelek/k8s-gitops)             | Flux2/GitOps managed cluster built with Ansible and kubeadm        |
+| [nshores/k8s-home-ops](https://github.com/nshores/k8s-home-ops)             | The configuration for my home k8s environment. K3s/Terraform/vSphere/Ansible/Flux 
 | [onedr0p/home-cluster](https://github.com/onedr0p/home-cluster)             | Running Flux and built with Ansible        |
 | [phybros/k3s-cluster](https://github.com/phybros/k3s-cluster)             | Flux/GitOps managed k3s home cluster        |
 | [rafaribe/home-ops](https://github.com/rafaribe/home-ops)             | Flux2/GitOps setup with mixed architecture k3s and talos clusters.        |
